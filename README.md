@@ -1,0 +1,1 @@
+Followed this article: https://betterprogramming.pub/managing-virtual-machines-under-vagrant-on-a-mac-m1-aebc650bc12c
